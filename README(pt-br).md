@@ -183,4 +183,4 @@ Este projeto é de uso livre para fins de estudo e aprendizado.
 
 ## Contato
 
-Se quiser dar sugestões ou conversar sobre o projeto, fique à vontade para abrir uma issue ou me chamar pelo GitHub! 🚀
+Se quiser dar sugestões ou conversar sobre o projeto, fique à vontade para abrir uma issue ou me chamar pelo GitHub!
