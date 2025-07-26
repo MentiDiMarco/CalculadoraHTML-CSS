@@ -1,6 +1,19 @@
 # Calculadora Util 1.0
 
-Este projeto é uma calculadora simples feita com HTML, CSS e JavaScript, ideal para quem está começando no desenvolvimento web. Ela realiza operações básicas: soma, subtração, multiplicação e divisão.
+Bem-vindo ao projeto **Calculadora Util 1.0**! Este é um site simples, mas funcional, criado para ajudar a realizar operações matemáticas básicas de forma rápida e intuitiva.
+
+Aqui você poderá somar, subtrair, multiplicar e dividir dois números, tudo isso em uma interface amigável, que foi pensada para ser acessível e responsiva — ou seja, que funciona bem tanto em computadores quanto em dispositivos móveis.
+
+Este projeto tem o objetivo de:
+
+- Praticar e demonstrar conhecimentos fundamentais de **HTML**, **CSS** e **JavaScript**.
+- Criar um layout limpo e agradável usando técnicas modernas de estilização.
+- Implementar funcionalidades interativas com JavaScript para tornar a experiência do usuário simples e eficiente.
+- Fornecer um exemplo básico que pode ser expandido ou adaptado para outras aplicações.
+
+Além disso, o código está estruturado para ser fácil de entender e modificar, o que torna este projeto uma ótima base para quem está começando no desenvolvimento web e deseja aprender os conceitos essenciais de front-end.
+
+Sinta-se à vontade para explorar o código, testar a calculadora e usar este projeto como inspiração para seus próprios desafios.
 
 ---
 
