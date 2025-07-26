@@ -46,3 +46,15 @@ O HTML cria a base da página com título, imagem, texto explicativo, lista de o
 
     <div id="resultado"></div>
 </div>
+```
+### Explicação do HTML:
+- Usamos `<h1>` e `<h2>` para os títulos principais e secundários, que organizam o conteúdo e facilitam a leitura.
+- A tag `<img>` insere uma imagem da calculadora e usamos `alt` para acessibilidade.
+- O parágrafo `<p>` explica para o usuário o propósito do site.
+- A lista `<ul>` mostra as operações que a calculadora pode realizar.
+- O formulário contém:
+  - `<label>` que identifica cada campo para o usuário.
+  - `<input type="number">` para entrada dos números, que aceita apenas números.
+  - `<select>` com `<option>` para escolher a operação matemática.
+  - O `<button>` para executar o cálculo.
+- A div `#resultado` será onde mostraremos o resultado da conta.
