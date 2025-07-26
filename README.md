@@ -1,6 +1,6 @@
 # Calculadora Util 1.0
 
-Bem-vindo ao projeto **Calculadora Util 1.0**! Este é um site simples, mas funcional, criado para ajudar a realizar operações matemáticas básicas de forma rápida e intuitiva.
+Bem-vindo ao projeto **Calculadora Util 1.0**! Este é um site simples, mas funcional, criado para estudar o desenvolvimento web de forma rápida e intuitiva.
 
 Aqui você poderá somar, subtrair, multiplicar e dividir dois números, tudo isso em uma interface amigável, que foi pensada para ser acessível e responsiva — ou seja, que funciona bem tanto em computadores quanto em dispositivos móveis.
 
