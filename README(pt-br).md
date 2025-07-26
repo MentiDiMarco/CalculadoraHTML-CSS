@@ -1,4 +1,4 @@
-#Calculadora Útil 1.0
+# Calculadora Útil 1.0
 
 Bem-vindo ao projeto **Calculadora Útil 1.0**!  
 Este é um site simples, mas funcional, criado com foco em **aprendizado prático de HTML, CSS e JavaScript**.
@@ -7,7 +7,7 @@ O objetivo deste projeto é criar uma **calculadora básica**, com um layout lim
 
 ---
 
-##Estrutura do Projeto
+## Estrutura do Projeto
 
 O projeto está dividido em três arquivos principais:
 
@@ -20,7 +20,7 @@ calculadora/
 
 ---
 
-##Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **HTML5** — Estrutura da página
 - **CSS3** — Estilização moderna e responsiva
@@ -30,7 +30,7 @@ calculadora/
 
 ---
 
-##Como o Projeto Funciona
+## Como o Projeto Funciona
 
 ### 1. HTML: Estrutura e Semântica
 
@@ -47,7 +47,7 @@ O `index.html` define os elementos principais da página:
   - `<button>` para calcular
 - Uma `<div id="resultado">` onde o resultado é exibido
 
-###Exemplo de trecho HTML:
+### Exemplo de trecho HTML:
 ```html
 <form onsubmit="event.preventDefault(); calcular();">
   <label for="num1">Número 1:</label>
@@ -147,7 +147,7 @@ function calcular() {
   setTimeout(() => res.classList.remove("mostrar"), 3000);
 }
 ```
-##Como Executar
+## Como Executar
 
 1. Clone este repositório ou baixe os arquivos `.zip`.
 2. Certifique-se de que os seguintes arquivos estejam no mesmo diretório:
@@ -159,7 +159,7 @@ function calcular() {
 
 ---
 
-##Possibilidades de Melhorias Futuras
+## Possibilidades de Melhorias Futuras
 
 Mesmo sendo um trabalho simples e introdutório, quero continuar desenvolvendo e expandindo esse projeto.
 
@@ -175,12 +175,12 @@ Este projeto representa o início da minha jornada com desenvolvimento front-end
 
 ---
 
-##Licença
+## Licença
 
 Este projeto é de uso livre para fins de estudo e aprendizado.
 
 ---
 
-##Contato
+## Contato
 
 Se quiser dar sugestões ou conversar sobre o projeto, fique à vontade para abrir uma issue ou me chamar pelo GitHub! 🚀
