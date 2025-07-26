@@ -298,5 +298,3 @@ Com o tempo, quero transformar esta aplicação em algo mais robusto e completo,
 Meu objetivo é aprender e crescer como desenvolvedor, utilizando projetos práticos como este para evoluir constantemente.
 
 Fique de olho nas atualizações!
-
----
