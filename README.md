@@ -285,3 +285,18 @@ function calcular() {
 - Tratamos o caso especial da divisão por zero, mostrando mensagem de erro.
 - O resultado do cálculo é colocado dentro da div `#resultado`.
 - Usamos uma animação simples para mostrar e depois esconder o resultado depois de 3 segundos, melhorando a experiência do usuário.
+---
+
+## Próximos passos e melhorias futuras
+
+Este projeto, apesar de ser um primeiro trabalho escolar simples, representa um importante passo na minha jornada de aprendizado em desenvolvimento web.
+
+Pretendo continuar investindo tempo para aprimorar esta calculadora, explorando novas funcionalidades, melhorias de design e técnicas avançadas de programação.
+
+Com o tempo, quero transformar esta aplicação em algo mais robusto e completo, adicionando recursos como histórico de cálculos, suporte a operações mais complexas, validações aprimoradas e até integração com APIs externas.
+
+Meu objetivo é aprender e crescer como desenvolvedor, utilizando projetos práticos como este para evoluir constantemente.
+
+Fique de olho nas atualizações!
+
+---
